@@ -34,3 +34,10 @@ cd directory name
 
 Install Dependencies
 npm install
+
+
+Running the Application
+Start the server with the following command:
+before starting ensure you have installed mongo db
+
+npm start
